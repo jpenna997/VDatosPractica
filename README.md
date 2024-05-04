@@ -1,4 +1,4 @@
-# Visualización de Datos - Practica 1
+# Visualización de Datos - Práctica 1
 
 
 ## Práctica de la asignatura Visualización de Datos 
